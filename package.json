@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "blakejs": "^1.1.0",
-    "js-sha3": "~0.8.0",
+    "js-sha3": "~0.9.1",
     "multihashes": "~0.4.14",
     "webcrypto": "~0.1.1"
   },
